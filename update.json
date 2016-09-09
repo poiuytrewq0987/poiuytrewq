@@ -1,5 +1,5 @@
 {
 	"url":"https://raw.githubusercontent.com/poiuytrewq0987/poiuytrewq/master/app-release.apk",
-	"versionCode":10102,
-	"updateMessage":"更新版本1.0.12，UI重新调整，支持语音动态设置，修复BUG"
+	"versionCode":10103,
+	"updateMessage":"更新版本1.0.13，更新下载界面，修复闪退BUG，更新A6VR格式(已加密)"
 }
