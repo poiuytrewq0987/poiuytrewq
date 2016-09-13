@@ -1,5 +1,5 @@
 {
 	"url":"https://raw.githubusercontent.com/poiuytrewq0987/poiuytrewq/master/app-release.apk",
-	"versionCode":10103,
-	"updateMessage":"更新版本1.0.13，更新下载界面，修复闪退BUG，更新A6VR格式(已加密)"
+	"versionCode":10104,
+	"updateMessage":"更新版本1.0.14，VR视频改成VR社区，增加上传按钮，增加提示，优化点头摇头识别速度"
 }
